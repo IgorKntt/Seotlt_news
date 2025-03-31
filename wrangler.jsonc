@@ -1,5 +1,5 @@
 {
- "name": "deploy_cloudflare",
+ "name": "seotltnews",
   "compatibility_date": "2025-03-31",
   "assets": {
         "directory": "./dist"
