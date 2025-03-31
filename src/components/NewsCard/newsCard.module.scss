@@ -1,0 +1,33 @@
+.newsCard {
+  display: flex;
+  background-color: white;
+  padding:16px;
+  margin-bottom: 8px;
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+
+.image {
+  width: 40%;
+  max-height: 160px;
+  border-radius: 12px;
+  background-size: cover;
+  background-position: center;
+
+}
+
+
+.article {
+  margin-left:16px;
+  max-width: 55%;
+
+   h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

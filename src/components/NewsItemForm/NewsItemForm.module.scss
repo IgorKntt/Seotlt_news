@@ -1,0 +1,29 @@
+.newsForm {
+
+  background-color: white;
+  border-radius: 16px;
+  padding: 12px 8px 24px;
+
+  input[type="text"], textarea, label {
+    box-sizing: border-box;
+    display: block;
+    padding: 12px;
+    min-width: 100%;
+  }
+
+  input[type="text"], textarea {
+      border-radius: 16px;
+      border: 1px lightgrey solid;
+
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+}
+
+.menu {
+  margin-top:24px;
+  text-align: right;
+}

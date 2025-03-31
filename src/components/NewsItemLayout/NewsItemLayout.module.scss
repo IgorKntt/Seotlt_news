@@ -1,0 +1,42 @@
+.newsItemMain {
+  background-color: white;
+  border-radius: 16px;
+  margin-bottom: 24px;
+
+
+  header {
+    background-size: cover;
+    background-position: center;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 160px;
+
+    border-radius: 16px 16px 0 0 ;
+
+    h3{
+
+      color: black;
+      font-weight: 900;
+      text-align: center;
+
+      span {
+        display: inline;
+        background-color: white;
+      }
+    }
+
+  }
+
+  p {
+    padding: 16px;;
+    margin-bottom: 0;
+  }
+
+  .menu{
+    text-align: right;
+    padding: 16px;
+  }
+}
+

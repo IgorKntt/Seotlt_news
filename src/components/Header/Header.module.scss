@@ -1,0 +1,15 @@
+.mainHeader {
+  position: fixed;
+  box-sizing: border-box;
+  top: 0;
+  left: 0;
+  background-color: white;
+  width: 100vw;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    width: 108px;
+  }
+}
